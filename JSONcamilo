@@ -1,0 +1,13 @@
+[
+    {
+      "run": "21200289-5",
+      "nombre": "camilo",
+      "apellido": "Galvarino",
+      "direccion": "Canal Pomar #437",
+      "fono": 989820659,
+      "correo":"camilo.galvarino@inacapmail.cl",
+      "montoCredito": 123455555,
+      "deuda":123333,
+      "tipo": 1
+    }
+]
